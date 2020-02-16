@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Samuel Cusi</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec luctus nisl.
+        Vestibulum nec odio nec arcu vehicula varius. Donec faucibus turpis cursus risus ultricies ullamcorper.
+        Donec ullamcorper arcu vel pretium efficitur.
+        Maecenas porta placerat accumsan. Quisque gravida neque id orci rhoncus rhoncus.
+        Nunc nunc lectus, consectetur a lacinia nec, placerat in ipsum.
+        Ut maximus in neque eu congue. Mauris sit amet mi sit amet quam lacinia mattis nec et dui.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis nec luctus nisl.
+    Vestibulum nec odio nec arcu vehicula varius. Donec faucibus turpis cursus risus ultricies ullamcorper.
+    Donec ullamcorper arcu vel pretium efficitur.
+    Maecenas porta placerat accumsan. Quisque gravida neque id orci rhoncus rhoncus.
+    Nunc nunc lectus, consectetur a lacinia nec, placerat in ipsum.
+    Ut maximus in neque eu congue. Mauris sit amet mi sit amet quam lacinia mattis nec et dui.</string>
+    <string name="what_is_your_nickname">¿Cuál es tu nickname?</string>
+    <string name="done">Done</string>
+</resources>
